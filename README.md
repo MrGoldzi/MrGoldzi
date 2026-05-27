@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h2 align="center">Mobile Applications • Cybersecurity Professional • Contributing to Open-Source Projects</h2>
+<h2 align="center">Mobile Applications • Cybersecurity • Contributing to Open-Source Projects</h2>
 
 <p align="center">
   I’m a self-taught developer focused on mobile engineering, cybersecurity, and open-source contributions.
