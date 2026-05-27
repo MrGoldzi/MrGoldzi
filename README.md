@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h2 align="center">Building Mobile Systems • Breaking Things • Learning Fast</h2>
+<h2 align="center">Mobile Applications • Cybersecurity • Learning Fast</h2>
 
 <p align="center">
   I’m a self-taught developer focused on mobile engineering, cybersecurity, and open-source contributions.
@@ -38,16 +38,6 @@
 
 ---
 
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://github.com/Locali">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -60,13 +50,6 @@
 
 ---
 
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Locali&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🐍 Contributions
 
@@ -79,14 +62,6 @@
 ## 🧠 Philosophy
 
 > Build things that matter. Break things to understand them. Improve every day.
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Locali&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
 
 ---
 
