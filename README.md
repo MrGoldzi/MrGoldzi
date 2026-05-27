@@ -1,40 +1,49 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Locali&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h2 align="center">Mobile Engineering • Cybersecurity • Open-Source Collaboration</h2>
+<h2 align="center">Mobile Engineer • Security Researcher • Open-Source Contributor</h2>
 
 <p align="center">
-  I’m a self-taught developer focused on building scalable mobile systems, improving security practices, and contributing to meaningful open-source projects.
+  I build mobile systems, explore security, and contribute to open-source projects that solve real-world problems.
 </p>
 
 ---
 
-## ⚡ About Me
+## A little bit about me
 
-- 🇦🇺 Based in Australia  
-- 📱 Mobile developer contributing to the **Mattermost Mobile App** ecosystem  
-- 🔐 Interested in cybersecurity, reverse engineering, system design, and mobile architecture  
-- 🤝 Open to collaboration on open-source and security-focused projects  
-- 🧠 Continuously learning: ML, distributed systems, and advanced backend/mobile engineering  
-- 🚀 Focused on building production-ready, real-world software that solves meaningful problems  
-
----
-
-## Collaboration Focus
-
-I enjoy working with other developers on:
-
-- Open-source mobile applications  
-- Security tooling and automation  
-- Scalable backend + mobile architectures  
-- Performance optimization and system improvements  
-- Developer experience (DX) improvements in OSS projects  
+-> 🇦🇺 Based in Australia  
+->  Contributing to Mattermost Mobile App  
+->  Focused on cybersecurity, reverse engineering, and mobile architecture  
+->  Open to collaboration on open-source projects  
+->  Continuously learning ML, system design, and backend/mobile engineering  
+-> Interested in building production-grade software  
 
 ---
 
-## Tech Stack
+## 🏷️ Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Currently-Building-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## Things i can help with
+
+- Mobile application development  
+- Security tools and automation  
+- Open-source contributions  
+- Backend and API systems  
+- Performance and architecture improvements  
+
+---
+
+## Languages i've learnt
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git"/>
@@ -42,26 +51,19 @@ I enjoy working with other developers on:
 
 ---
 
-## Engineering Philosophy
+## Working Style
 
-> “Good software is built through collaboration, curiosity, and continuous improvement.”
-
-I believe in:
-- Writing clean, maintainable, and scalable code  
-- Learning by building real systems  
-- Contributing meaningfully to open-source communities  
-- Sharing knowledge and improving alongside others  
+-> Simple and maintainable solutions  
+-> Practical engineering over theory  
+-> Fast iteration and real-world testing  
+-> Collaboration-driven development  
+-> Continuous improvement through building  
 
 ---
 
-## Open to Collaboration
+##  Philosophy
 
-If you're working on:
-- Mobile engineering projects  
-- Security or tooling systems  
-- Open-source improvements  
-
-Feel free to connect, I’m always open to collaborating on impactful work.
+> Build useful systems. Keep them simple. Improve constantly. |
 
 ---
 
