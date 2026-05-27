@@ -38,27 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Locali&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locali&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://github.com/Locali/Locali/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🧠 Philosophy
 
 > Build things that matter. Break things to understand them. Improve every day.
