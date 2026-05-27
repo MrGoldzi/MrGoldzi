@@ -1,58 +1,54 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20I'm%20Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?text=Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h1 align="center">Mobile Engineer • Cybersecurity • Builder</h1>
+<h2 align="center">Building Mobile Systems • Breaking Things • Learning Fast</h2>
 
 <p align="center">
-  I build mobile apps, break things to understand them, and ship clean systems.
+  I’m a self-taught developer focused on mobile engineering, cybersecurity, and open-source contributions.
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ Who I Am
 
 - 🇦🇺 Based in Australia  
-- 📱 Currently working on **Mattermost Mobile App contributions**  
-- 🧠 Learning **Machine Learning + Advanced Mobile Architecture**  
-- 🔐 Interested in **Cybersecurity, Reverse Engineering, Automation**  
-- 🚀 Goal: Build impactful open-source projects that scale  
-- 🎯 Self-taught developer focused on real-world engineering  
+- 📱 Mobile developer contributing to **Mattermost Mobile App**  
+- 🔐 Interested in cybersecurity, reverse engineering, and system design  
+- 🧠 Constantly learning: ML, mobile architecture, and backend systems  
+- 🚀 Focused on building real-world, scalable software — not just tutorials  
 
 ---
 
-## 🌐 Connect With Me
+## 🧭 What I’m Working On
 
-<p align="center">
-  <a href="https://github.com/Locali">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-
-  <a href="https://twitter.com">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-  </a>
-
-  <a href="https://discord.com">
-    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
-  </a>
-</p>
+- Contributing to open-source mobile applications  
+- Building security-focused tools and scripts  
+- Exploring machine learning fundamentals  
+- Improving performance and architecture understanding in mobile apps  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Locali">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em"
@@ -64,7 +60,7 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Locali&theme=tokyonight&hide_border=true"/>
@@ -72,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/Locali/Locali/blob/output/github-contribution-grid-snake.svg"/>
@@ -80,24 +76,13 @@
 
 ---
 
-## 🚀 Projects
+## 🧠 Philosophy
 
-- 📱 **Mattermost Mobile Contributions** — Open-source mobile development work  
-- 🔐 **Cybersecurity Toolkit** — Security + automation scripts  
-- 🤖 **ML Experiments** — Learning machine learning through projects  
-- 🌐 **Portfolio Website** — Personal dev showcase  
+> Build things that matter. Break things to understand them. Improve every day.
 
 ---
 
-## 💭 Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Views
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Locali&label=Profile%20Views&color=blueviolet&style=flat"/>
