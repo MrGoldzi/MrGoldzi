@@ -25,25 +25,24 @@
 ## 🏷️ Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile%20Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Researcher-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Currently-Building-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## Things i can help with
 
-- Mobile application development  
-- Security tools and automation  
-- Open-source contributions  
-- Backend and API systems  
-- Performance and architecture improvements  
+-> Mobile application development  
+-> Security tools and automation  
+-> Open-source contributions  
+-> Backend and API systems  
+-> Performance and architecture improvements  
 
 ---
 
-## Languages i've learnt
+## Languages i've learnt & more
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git"/>
