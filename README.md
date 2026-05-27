@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Locali%20👨‍💻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h2 align="center">Mobile Applications • Cybersecurity • Learning Fast</h2>
+<h2 align="center">Mobile Applications • Cybersecurity Professional • Contributing to Open-Source Projects</h2>
 
 <p align="center">
   I’m a self-taught developer focused on mobile engineering, cybersecurity, and open-source contributions.
@@ -15,13 +15,13 @@
 
 - 🇦🇺 Based in Australia  
 - 📱 Mobile developer contributing to **Mattermost Mobile App**  
-- 🔐 Interested in cybersecurity, reverse engineering, and system design  
-- 🧠 Constantly learning: ML, mobile architecture, and backend systems  
+- 🔐 Skilled in cybersecurity, reverse engineering, system design, and Mobile Development
+- 🧠 Constantly learning: ML, mobile architecture, and advanced backend systems  
 - 🚀 Focused on building real-world, scalable software — not just tutorials  
 
 ---
 
-## 🧭 What I’m Working On
+## What I’m Working On
 
 - Contributing to open-source mobile applications  
 - Building security-focused tools and scripts  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git"/>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > Build things that matter. Break things to understand them. Improve every day.
 
