@@ -39,15 +39,19 @@ hobbies:
   - Design
   - Music
 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/Locali"><img src="https://skillicons.dev/icons?i=github" height="50"/></a> <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a> <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a> <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a> </p>
+<p align="center"> <a href="https://github.com/Locali"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a> <a href="https://linkedin.com"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> <a href="https://twitter.com"> <img src="https://skillicons.dev/icons?i=twitter" height="50"/> </a> <a href="https://discord.com"> <img src="https://skillicons.dev/icons?i=discord" height="50"/> </a> </p>
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html" height="50"/> <img src="https://skillicons.dev/icons?i=css" height="50"/> <img src="https://skillicons.dev/icons?i=javascript" height="50"/> <img src="https://skillicons.dev/icons?i=typescript" height="50"/> <img src="https://skillicons.dev/icons?i=react" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" height="50"/> <img src="https://skillicons.dev/icons?i=express" height="50"/> <img src="https://skillicons.dev/icons?i=mongodb" height="50"/> <img src="https://skillicons.dev/icons?i=firebase" height="50"/> <img src="https://skillicons.dev/icons?i=python" height="50"/> <img src="https://skillicons.dev/icons?i=bash" height="50"/> <img src="https://skillicons.dev/icons?i=linux" height="50"/> <img src="https://skillicons.dev/icons?i=docker" height="50"/> <img src="https://skillicons.dev/icons?i=git" height="50"/> <img src="https://skillicons.dev/icons?i=vscode" height="50"/> </p>
 📈 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Locali&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locali&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Locali&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Locali&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Locali&theme=tokyonight&hide_border=true"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/Locali/Locali/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+<p align="center"> <img src="https://github.com/Locali/Locali/blob/output/github-contribution-grid-snake.svg"/> </p>
 🚀 Featured Projects
 Project	Description
 📱 Mattermost Contributions	Open source mobile contributions
@@ -57,5 +61,5 @@ Project	Description
 💭 Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Locali&label=Profile%20Views&color=blueviolet&style=flat" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Locali&label=Profile%20Views&color=blueviolet&style=flat" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
