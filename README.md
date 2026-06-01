@@ -45,7 +45,7 @@
 ## Languages i've learnt & more
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,python,bash,linux"/>
 </p>
 
 ---
